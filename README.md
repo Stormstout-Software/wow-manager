@@ -1,6 +1,6 @@
-# Laravel Boilerplate
+# WoW Manager
 
-Laravel Boilerplate project with default settings and features
+Manager for my World of Warcraft accounts
 
 ##
 Laravel version - v11.23.5
